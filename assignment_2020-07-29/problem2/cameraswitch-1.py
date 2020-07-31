@@ -118,7 +118,6 @@ while is_running:
     screen.blit( surface, (0,0) )
     pygame.display.update()
 
-print(pos_a,pos_b,pos_c,pos_d)
 
 print("Done...")
 #####################################################
