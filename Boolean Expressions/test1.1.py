@@ -55,7 +55,7 @@ class exptt() :
                     self.mylist[self.left] = i
                 else :
                     self.mylist[self.right] = i
-            elif i in '+&' :                                      
+            elif i in '+&!' :                                      
                 self.mylist[n] = i 
                 
             else :                              
